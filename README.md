@@ -54,3 +54,4 @@ python3 bot.py
 
 * [SpEcHlDe](https://telegram.dog/SpEcHlDe) 
 * [Dan Tès](https://telegram.dog/haskell)
+* [Dedshit](https://github.com/dedshit)
